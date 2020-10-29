@@ -1,0 +1,167 @@
+-20191213
+设计框架，封装一些基本方法
+
+-20191215
+搜寻html测试报告自动输出的外部库类，编写一些日志输出的功能
+
+-20191216
+封装浏览器动作。
+调研、设计元素读取方法，实现
+
+-20191217
+继续实现元素维护、读取的方法，调试
+
+-20191219
+编写view，遇到问题，添加照片的动作与一般的键入路径不一样，只能本地搜索文件，预备用快捷键实现，需要找个合适的方法。调研此类外部库类中。。
+
+-20191220
+解决问题；
+
+-20191221
+加入runMain机制，更规整
+
+-20191222
+设计report输出方式，实现；加入定时执行的一个开关，调试成功
+
+-20191224
+加入header
+
+-20200415～
+新增、修改 view 代码，持续调试。保证代码运行顺畅，能兜住尽可能多的异常情况；；应对 Seminar ，设计PPT，让针对非技术人员的知识分享变得更平滑易懂
+想法💡：
+    1.放进去Oreo生产流水线的案例启发，引入自动化主题
+    2.放入晚饭后散步的案例，引入PO框架的优势
+
+-20200513
+为什么会需要自动化
+生活场景
+自动化测试门类：。。。（依照PPT目前已完成的部分来看 就把这部分内容删除不讲了 //篇幅有限）
+web手工回归的场景（这次分享仅列举UI自动化）
+自动化工具的引入（p+s）
+    是否有必要引入线性执行的代码样例
+
+工作原理介绍
+框架介绍、好处分析（PO）
+代码运行，效果展示
+Q&A
+
+1.Seely-BIdashboard 仪表盘 by czy
+看起来对前端要求有点高 感觉工作量可能会高出天际 
+
+
+2.设备管理-备件管理
+详情管理
+库存管理
+
+入库
+
+
+
+
+
+
+
+
+
+
+
+# coding:utf-8
+#    __author__ = 'Mark sinoberg'
+#    __date__ = '2016/5/26'
+#    __Desc__ = 实现发送带有各种附件类型的邮件import urllib, urllib2import smtplibfrom email.mime.multipart import MIMEMultipartfrom email.mime.text import MIMETextfrom email.mime.application import MIMEApplicationusername = '156408XXXXX@163.com'password = 'XXXXXXXX'sender = usernamereceivers = ','.join(['10643XXXX2@qq.com'])# 如名字所示： Multipart就是多个部分msg = MIMEMultipart()msg['Subject'] = 'Python mail Test'msg['From'] = sendermsg['To'] = receivers# 下面是文字部分，也就是纯文本puretext = MIMEText('我是纯文本部分，')msg.attach(puretext)# 下面是附件部分 ，这里分为了好几个类型# 首先是xlsx类型的附件xlsxpart = MIMEApplication(open('test.xlsx', 'rb').read())xlsxpart.add_header('Content-Disposition', 'attachment', filename='test.xlsx')msg.attach(xlsxpart)# jpg类型的附件jpgpart = MIMEApplication(open('beauty.jpg', 'rb').read())jpgpart.add_header('Content-Disposition', 'attachment', filename='beauty.jpg')msg.attach(jpgpart)# mp3类型的附件mp3part = MIMEApplication(open('kenny.mp3', 'rb').read())mp3part.add_header('Content-Disposition', 'attachment', filename='benny.mp3')msg.attach(mp3part)##  下面开始真正的发送邮件了try:    client = smtplib.SMTP()    client.connect('smtp.163.com')    client.login(username, password)    client.sendmail(sender, receivers, msg.as_string())    client.quit()    print '带有各种附件的邮件发送成功！'except smtplib.SMTPRecipientsRefused:    print 'Recipient refused'except smtplib.SMTPAuthenticationError:    print 'Auth error'except smtplib.SMTPSenderRefused:    print 'Sender refused'except smtplib.SMTPException,e:    print e.message
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+かぐや様は告らせたい❤️天才たちの恋愛頭脳戦
+
+Tokiwadai Chuugakkou
+
+TOKIOMI
+KIRITSUGU
+
+费益霖 15168061831
+浙江省杭州市萧山区南秀路156号久赋名邸11栋1单元1503
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

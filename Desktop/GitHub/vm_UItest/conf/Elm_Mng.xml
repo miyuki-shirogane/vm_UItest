@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page>
+ 
+    <activity name="Login">
+ 
+         <element id="account">
+            <name>输入账号</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div/form/div[1]/div[1]/div/div/input</pathValue>
+        </element>
+
+        <element id="psw">
+            <name>输入密码</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div/form/div[1]/div[2]/div/div/input</pathValue>
+        </element>
+
+        <element id="enter">
+            <name>登录</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div/form/div[2]/button/span[1]</pathValue>
+        </element>
+ 
+    </activity>
+
+
+    <activity name="Member">
+ 
+         <element id="member_sidebar1">
+            <name>员工管理入口1</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[1]/div/div/div[3]/nav/div[3]</pathValue>
+        </element>
+
+         <element id="member_sidebar2">
+            <name>员工管理入口2</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[1]/div/div/div[3]/nav/div[4]/div/div/div/a[1]/div/div[2]/span/div</pathValue>
+        </element>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+         <element id="member_pagesize">
+            <name>分页选择</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[3]/div/div[2]</pathValue>
+        </element>
+
+         <element id="member_pagesizechoose">
+            <name>分页选择100</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="menu-"]/div[3]/ul/li[4]</pathValue>
+        </element>
+
+         <element id="memberd_pagesize">
+            <name>分页选择</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div[2]/div[2]/div[3]/div/div[2]/div</pathValue>
+        </element>
+
+
+         <element id="member_checkbox">
+            <name>选择人员</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/table/thead/tr/th[1]/span/span[1]/input</pathValue>
+        </element>
+
+         <element id="member_delete">
+            <name>删除人员</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[1]/div[2]/div/div/div/button[1]</pathValue>
+        </element>
+
+         <element id="member_deleteconfirm">
+            <name>确认删除</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[9]/div[3]/div/div[3]/button[2]</pathValue>
+        </element>
+
+         <element id="member_deletetable">
+            <name>移除列表</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div[2]/div[2]/a</pathValue>
+        </element>
+
+         <element id="memberd_checkbox">
+            <name>选择人员</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/table/thead/tr/th[1]/span/span[1]/input</pathValue>
+        </element>
+
+         <element id="memberd_delete">
+            <name>删除人员</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div[2]/div[2]/div[1]/div[2]/div/div/button[2]</pathValue>
+        </element>
+
+         <element id="memberd_deleteconfirm">
+            <name>确认删除</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[6]/div[3]/div/div[3]/button[2]</pathValue>
+        </element>
+
+
+
+
+
+
+
+
+
+
+
+         <element id="member_add">
+            <name>员工新增入口</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[1]/div[2]/div/div/div[2]/button[1]</pathValue>
+        </element>
+
+         <element id="member_count">
+            <name>记录数</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[3]/div/p[2]</pathValue>
+        </element>
+
+         <element id="member_photo">
+            <name>员工照片</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[5]/div[3]/div/div[2]/div/form/div[1]/div[1]/div/div/div/div[2]/label</pathValue>
+        </element>
+
+         <element id="member_name">
+            <name>添加姓名</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[5]/div[3]/div/div[2]/div/form/div[1]/div[2]/div/div/input</pathValue>
+        </element>
+
+         <element id="member_serialNumber">
+            <name>添加工号</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[5]/div[3]/div/div[2]/div/form/div[1]/div[3]/div/div/input</pathValue>
+        </element>
+
+         <element id="member_email">
+            <name>添加邮箱账号</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[5]/div[3]/div/div[2]/div/form/div[1]/div[5]/div/div/input</pathValue>
+        </element>
+
+         <element id="member_role">
+            <name>点击账户组下拉框</name>
+            <pathType>ID</pathType>
+            <pathValue>mui-component-select-role</pathValue>
+        </element>
+
+         <element id="member_role_option">
+            <name>选择账户组</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="menu-role"]/div[3]/ul/li[4]</pathValue>
+        </element>
+
+         <element id="member_add_submit">
+            <name>确定按钮</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[5]/div[3]/div/div[2]/div/form/div[4]/div/button[2]</pathValue>
+        </element>
+
+    </activity>
+
+
+    <activity name="Visitor">
+
+        <element id="visitor_sidebar1">
+            <name>访客记录入口1</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[1]/div/div/div[3]/nav/div[1]</pathValue>
+        </element>
+
+        <element id="visitor_sidebar2">
+            <name>访客记录入口2</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[1]/div/div/div[3]/nav/div[2]/div/div/div/a[1]/div/div[2]/span/div</pathValue>
+        </element>
+
+        <element id="event_count">
+            <name>记录数</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div[2]/div/div[3]/div/p[2]</pathValue>
+        </element>
+
+        <element id="event_add">
+            <name>添加访问事件</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div[2]/div/div/button[2]</pathValue>
+        </element>
+
+        <element id="target_name">
+            <name>被访人姓名</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[3]/div[3]/div/div[2]/div/form/div[1]/div[2]/div/div/div/div/div[2]/div</pathValue>
+        </element>
+
+
+        <element id="reason">
+            <name>来访事由</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[3]/div[3]/div/div[2]/div/form/div[1]/div[6]/div/div</pathValue>
+        </element>
+
+        <element id="pick_reason">
+            <name>选择来访事由</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="menu-reason"]/div[3]/ul/li[3]</pathValue>
+        </element>
+
+        <element id="permission">
+            <name>通行权限</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[3]/div[3]/div/div[2]/div/form/div[1]/div[7]/div/div</pathValue>
+        </element>
+
+        <element id="pick_permission">
+            <name>通行权限选择</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="menu-permissions"]/div[3]/ul/li[1]</pathValue>
+        </element>
+
+        <element id="blank">
+            <name>空白</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="menu-permissions"]/div[1]</pathValue>
+        </element>
+
+        <element id="deadline">
+            <name>权限截止时间</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[3]/div[3]/div/div[2]/div/form/div[1]/div[8]/div/div/input</pathValue>
+        </element>
+
+        <element id="visitor_name">
+            <name>访客姓名</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[3]/div[3]/div/div[2]/div/form/div[1]/div[9]/div/div/div/input</pathValue>
+        </element>
+
+        <element id="visitor_photo">
+            <name>访客照片</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[3]/div[3]/div/div[2]/div/form/div[1]/div[19]/div/div/div/div[2]/label</pathValue>
+        </element>
+
+        <element id="submit">
+            <name> 提交</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[3]/div[3]/div/div[2]/div/form/div[2]/div/div[2]/div/button</pathValue>
+        </element>
+
+        <element id="finish">
+            <name> 完成</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[3]/div[3]/div/div[3]/button</pathValue>
+        </element>
+
+    </activity>
+
+
+    <activity name="vSetting">
+ 
+         <element id="vSetting_sidebar2">
+            <name>设置页面入口2</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[1]/div/div/div[3]/nav/div[2]/div/div/div/a[2]/div/div[2]/span/div</pathValue>
+        </element>
+
+    </activity>
+
+    <activity name="Blacklist">
+ 
+         <element id="blacklist_sidebar1">
+            <name>黑名单入口1</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[1]/div/div/div[3]/nav/div[5]</pathValue>
+        </element>
+
+         <element id="blacklist_sidebar2">
+            <name>黑名单入口2</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[1]/div/div/div[3]/nav/div[6]/div/div/div/a[1]/div/div[2]/span/div</pathValue>
+        </element>
+
+         <element id="blacklist_count">
+            <name>记录数</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div[2]/div/div[3]/div/p[2]</pathValue>
+        </element>
+
+         <element id="blacklist_add">
+            <name>添加黑名单</name>
+            <pathType>XPATH</pathType>
+            <pathValue>//*[@id="root"]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div[2]/div/div/button</pathValue>
+        </element>
+
+         <element id="blacklist_photo">
+            <name>黑名单照片</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[2]/div[3]/div/div[2]/div/form/div[1]/div[1]/div/div/div/div[2]/label</pathValue>
+        </element>
+
+         <element id="blacklist_name">
+            <name>黑名单姓名</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[2]/div[3]/div/div[2]/div/form/div[1]/div[2]/div/div/input</pathValue>
+        </element>
+
+         <element id="blacklist_submit">
+            <name>黑名单提交</name>
+            <pathType>XPATH</pathType>
+            <pathValue>/html/body/div[2]/div[3]/div/div[2]/div/form/div[2]/div/button[2]</pathValue>
+        </element>
+
+    </activity>
+
+
+
+
+
+
+</page>
+
+
+
+
+

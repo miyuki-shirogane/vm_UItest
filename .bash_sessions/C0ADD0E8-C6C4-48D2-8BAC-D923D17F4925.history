@@ -1,0 +1,503 @@
+ssh teletraan@192.168.1.5
+cd /desktop/j/
+cd desktop
+cd j
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+pip install itchatitchat
+pip install itchat
+ssh teletraan@192.168.1.5
+cd desktop/j.1/
+cd bin
+sh jmeter.sh
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+cd desktop/j.1
+cd bin
+sh jmeter.sh
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+sh
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+pip install ddt
+pip install argparse
+pip install cv2
+pip install cv
+pip install opencv-python
+pip install subprocess
+pip install pil
+pip install PIL
+pip install pillow
+pip search PIL
+pip search subprocess
+python -V
+brew upgrade python
+python -V
+python -V
+git --version
+cd ~/.ssh
+git --version
+ssh-keygen -t rsa -C yl.fei@teletraan.io
+cd desktop
+ssh-keygen -t rsa -C yl.fei@teletraan.io
+ssh-keygen -t rsa -C yl.fei@teletraan.io
+cd resource
+cd ../
+cd resource
+cd /资源库/Python/
+ls
+cd ../
+ls
+cd ../
+ls
+cd Library/
+ls
+cd Python/
+ls
+cd 2.7
+zip rebuild
+zip rebuild
+sleep 2s zip rebuild
+zip rebuild
+cd ../
+cd ../
+ls
+cd Library/
+cd Python/
+cd 2.7
+ls
+zip rebuild.zip
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+wget http://www.rarsoft.com/rar/rarlinux-5.3.0.tar.gz
+cd download
+cd downloads
+ls
+ls
+ls
+cd rarosx-5.7.1.tar.gz 
+tar rarosx-5.7.1.tar.gz 
+tar xvf rarosx-5.7.1.tar.gz 
+cd rar
+sudo install -c -o $USER rar /usr/local/bin
+cd desktop
+ls
+cd 测试文档
+ls
+rar 人员照片
+rar 人员照片
+rar 人员照片.rar
+rar a 人员照片.rar
+cd ../
+cd ../
+cd downloads
+cd rar/
+sudo install -c -o $USER rar /usr/local/bin/
+sudo install -c -o $USER unrar /usr/local/bin
+cd desktop/测试文档/
+rar a 人员照片
+7z a 人员照片
+cd desktop/测试文档/
+rar a 人员照片
+rar a 人员照片.rar
+7z a 人员照片.7z
+rar x 人员照片.rar
+unrar x 人员照片.rar
+cd desktop/测试文档/人员照片.zip
+cd desktop/测试文档/人员照片
+ls
+ll -a
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+pip intall pyerclip
+pip install pyerclip
+pip install pyperclip
+cd desktop
+cd 测试文档/图片测试素材
+python
+pip install platform
+pip install PyUserInput
+python
+pip install pyHook
+pip install pykeyboard
+pip update
+update pip
+pip install PyUserInput
+pip install Quartz
+python
+        k.tap_key(k.enter_key)
+pip install Quartz
+pip install -r requirements.txt
+pip install Quartz
+pip freeze> requirements.txt
+pip install -r requirements.txt
+python
+pip install Quartz
+pip install Quartz
+cd desktop
+python
+cd desktop
+cd quartz-0.0.1.dev0/
+python
+pip install Quartz
+pip install -r requirements.txt
+pip install Quartz
+pwd
+pip install -e /Users/yilin/Downloads/quartz-0.0.1.dev0/
+pip install -e /Users/yilin/Downloads/quartz-0.0.1.dev0
+pip install -e /Users/yilin/Downloads/quartz-0.0.1.dev0
+pip install -e /Users/yilin/Downloads/quartz-0.0.1.dev0
+python
+python
+pip install AppKit
+pip install AppKit
+pip install AppKit
+pip install git+git://github.com/nitipit/appkit.git
+pip install Quartz
+pip install pyobjc-framework-Quartz
+pip install PyUserInput
+pip install quartz
+pip install sneakysnek
+pip install AppKit
+pip install python-opencv
+pip install opencv-python
+python
+python
+python
+ssh 192.168.1.5
+teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
+sudo spctl --master-disable
+ssh 192.168.1.5:27417
+subl index.html 
+python -m SimpleHTTPServer
+cd ~
+cd Desktop/
+ll
+ls -l
+python -m SimpleHTTPServer
+ssh 192.168.1.5:27417
+brew info mongodb
+brew install mongodb
+open -e .bash_profile
+cd /usr
+cd /local
+ls
+cd local/
+open -e .bash_profile
+cd ../
+cd ../
+open -e .bash_profile
+ls
+cd home
+open -e .bash_profile
+open -e .bash_profile
+echo $SHELL
+cat ~/.bashrc
+vim .bash_profile
+sudo vim .bash_profile
+ll
+ls
+touch .bash_profile
+sudo touch .bash_profile
+ls
+cd
+ls
+cd -
+ls
+pwd
+cd
+touch .bash_profile
+vim .bash_profile 
+source .bash_profile 
+echo $PATH
+mongodb -version
+mongod -version
+mongod
+cd home
+ls
+cd ../
+cd ../
+ls
+cd /home/
+cd /usr/local/
+ls
+cd M
+cd MongoDB/
+sudo mkdir etc
+LS
+ls
+cd /etc
+ls
+sudo vim mongodb.conf
+cd /usr/local
+ls
+cd /MongoDB
+cd MongoDB/etc/
+ls
+sudo vim mongodb.conf
+cd ~/Downloads && git clone https://github.com/CodeTips/BaiduNetdiskPlugin-macOS.git && ./BaiduNetdiskPlugin-macOS/Other/Install.sh
+ 
+mongo 192.168.1.5:27417
+git@github.com:yilinfei/teletraan_apitest.git
+ssh git@github.com:yilinfei/teletraan_apitest.git
+git
+git config
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/miyuki-shirogane/ealin.git
+git push -u origin master
+brew install jekins
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)”
+brew install jekins
+
+
+cd /资源库/Python/2.7/
+cd ../
+cd ../
+ls
+c \d Library/Python/2.7
+c \d Library/Python/2.7/
+c \d Library/Python/
+cd Library/Python/2.7/
+ls
+cd rebuild/
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/miyuki-shirogane/ealin.git
+git push -u origin master
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/miyuki-shirogane/ealin.git
+git push -u origin master
+git add *
+git status
+git remote add origin https://github.com/miyuki-shirogane/ealin.git
+git commit -m "first commit"
+git remote add origin https://github.com/miyuki-shirogane/ealin.git
+git push -u origin master
+brew install jekins
+brew install jenkins
+brew cask install java
+brew install jenkins
+sudo chown -R whoami:admin/usr/local/share/man/man5
+brew install jenkins
+sudo chown -R $(whoami) /usr/local/share/man/man5
+chmod u+w /usr/local/share/man/man5
+brew install jenkins
+brew cask install homebrew/cask-versions/adoptopenjdk8
+brew install jenkins
+cd desktop
+./dmock -h
+./dmock -s a,b,c -t device/2
+./dmock -h
+-ma 192.168.1.5:2023
+./dmock -ma 192.168.1.5:2023
+./dmock -s 4 -t device/3
+cd desktop
+ls
+python a.py
+lsof -i:8000
+kill -9 40805
+python a.py
+python a.py
+cd desktop
+ls
+python a.py
+cd desktop
+./dmock -h
+./dmock -s pressure -t device/3
+./dmock -s pressure -t device/3 -i
+./dmock -s pressure -t device/3 -i 2000
+./dmock -s pressure,speed -t device/3 -i 2000
+./dmock -s pressure,speed -t device/3 -i 2000
+./dmock -s pressure,speed -t device/3 -i 2000
+./dmock -s c -t device/14 -i 2000
+./dmock -s pressure,a -t device/18 -i 2000
+./dmock -s pressure,k,s,a,o -t device/17 -i 2000
+./dmock -s power,k,s,a,o -t device/5 -i 2000
+./dmock -s new,k,s,a,o -t device/5 -i 2000
+./dmock -s wenzhou,k,s,a,o -t device/6 -i 2000
+cd desktop
+ls
+python a.py
+sudo vi ~/.bash_profile
+source ~/.bash_profile
+sudo chmod
+sudo chmod 755 你的Tomcat路径/bin/*.sh 
+sudo chmod 755 /Library/tomcat9//bin/*.sh
+sudo startup.sh
+cd /Library/tomcat9/bin
+ls
+sudo startup.sh
+sh start.sh
+sh startup.sh
+cd ./
+./
+../
+cd ../
+cd ../
+cd ../
+sudo chmod 755 /Library/tomcat9//bin/startup.sh
+cd /Library/tomcat9/bin
+sudo startup.sh
+sudo vi ~/.bash_profile
+source ~/.bash_profile
+sudo chmod 755 /Library/tomcat9//bin/*.sh
+sudo startup.sh
+java -version
+sudo vi ~/.bash_profile
+source ~/.bash_profile
+sudo chmod 755 /Library/tomcat9//bin/*.sh
+sudo chmod 755 /Library/tomcat9/bin/*.sh
+sudo vi ~/.bash_profile
+source ~/.bash_profile
+sudo chmod 755 /Library/tomcat9/bin/*.sh
+sudo vi ~/.bash_profile
+startup.sh
+sudo vi ~/.bash_profile
+source ~/.bash_profile
+shutdown.sh
+startup.sh
+shutdown.sh
+startup.sh
+sudo vi ~/.bash_profile
+sudo systemctl restart jenkins
+sudo service jenkins stop
+sudo service jenkins start
+sudo service jenkins stop
+sudo launchctl load /Library/LaunchDaemons/org.jenkins-ci.plist
+sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist
+sudo launchctl load /Library/LaunchDaemons/org.jenkins-ci.plist
+startup.sh
+cd Library
+ls
+cd ../
+ls
+cd Library/
+ls
+cd Python
+cd Python
+cd Library/Python
+cd Library/Python
+cd Library/Python/
+cd desktop
+python robot.py
+cd desktop
+python robot.py
+python robot.py
+python robot.py
+python robot.py
+python robot.py
+cd desktop
+python robot.py
+vim robot.py
+cd desktop
+python robot.py
+vim robor.py
+cd desktop
+vim robot.py
+cd desktop
+vim robot.py
+ls
+vim robot.py
+python robot.py
+cd desktop
+vim robot.py
+python robot.py
+python robot.py
+pip install math
+cd desktop
+python robot.py
+python robot_go.py
+python robot_go.py
+python robot.py
+python robot.py
+cd desktop
+python robot_go.py
+python robot_go.py
+cd desktop
+python robot.py
+python robot.py
+cd desktop
+python robot.py
+cd hydrops
+python hydrops
+python hydrops.py
+python hydrops.py
+python robot.py
+python hydrops.py
+python hydrops.py
+python hydrops.py
+python hydrops.py
+cd desktop/interview2020/
+python robot.py
+python hydrops
+python hydrops.py
+python hydrops.py
+python hydrops.py
+python hydrops.py
+python hydrops.py
+python robot.py
+python robot_go.py
+python hydrops.py
+python robot.py
+cd desktop/interview2020/
+python robot.py
+python robot_go.py
+python hydrops.py
+python hydrops.py
+python test py
+python test.py
+python test.py
+python test.py
+python test.py
+3
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python robot_go.py
+python hydrops.py
+python hydrops.py
+cd desktop/robot_go.py
+cd desktop/interview2020/
+python robot_go.py
+ssh 192.168.1.5
+ssh teletraan@192.168.1.5
+ssh teletraan@192.168.1.5
